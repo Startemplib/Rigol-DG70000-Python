@@ -1,0 +1,5 @@
+# pip install -r requirements.txt
+# NI-VISA is NOT on pip. Install it from ni.com first -- see the README.
+pyvisa>=1.13
+numpy>=1.24
+matplotlib>=3.7   # --preview only; drop it if you never plot
