@@ -62,8 +62,6 @@ not a multiple of two sample periods is snapped down, and it says so.
 
 The first version drew inspiration from a ~100-line example provided by a Rigol engineer. Credit where it is due.
 
-## Status
-
 ## A Few Words About This Project
 
 This work was done a few years ago, around 2024–2025, in a lab I'm no longer part of.
